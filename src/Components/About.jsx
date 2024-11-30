@@ -16,7 +16,7 @@ export class About extends Component {
     <div class="p-8">
       <p className='text-lg text-justify'>
       Aspiring and dedicated software engineer with a solid foundation in computer science and hands-on experience in 
-      developing and troubleshooting software applications. Eager to leverage my academic knowledge and programming skills 
+      developing and troubleshooting the software applications. Eager to leverage my academic knowledge and programming skills 
       to contribute to innovative projects and enhance productivity. Highly motivated to continuously improve and excel within 
       a dynamic team environment, and to grow professionally by tackling real-world challenges.
       </p>
